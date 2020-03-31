@@ -6,6 +6,7 @@ def test1():
     print("Hello")
     print("Changes")
     print("One more change")
+    print("Kisi aur ke changes")
     return "hi"
 
 if __name__ == '__main__':
