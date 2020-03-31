@@ -11,6 +11,7 @@ def test1():
     print("commit 2")
     print("One more change")
     print("commit 2")
+    print("One more change")
     print("Kisi aur ke changes")
     return "hi"
 
